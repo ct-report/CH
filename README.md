@@ -8,7 +8,7 @@ References | https://github.com/ct-report/DP-3T
 Sources CH App | https://github.com/DP-3T/dp3t-app-android-ch/
 Website | https://www.bag.admin.ch/bag/en/home.html
 
-Since app is still in development / trial stage, the provided APK sample is the ProdRelease build variant (using latest CH-specific sources).
+Since app is still in development / trial stage, the provided APK samples are the ProdRelease / ProdDebug / DevDebug build variants (using latest CH-specific sources).
 
 - APKLAB Analysis
 
