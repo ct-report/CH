@@ -3,14 +3,15 @@ Contact Tracing - Switzerland
 
 The Swiss Federal Office of Public Health is working on **SwissCovid** with EFPL and ETH Zurich. It's a secure, decentralised system for contact tracing developed by the Decentralised Privacy-Preserving-Proximity Tracing (DP-3T) international consortium.
 
-References | https://github.com/ct-report/DP-3T
+Play Store | https://play.google.com/store/apps/details?id=ch.admin.bag.dp3t
 -----------|-----------------------------------
 Sources CH App | https://github.com/DP-3T/dp3t-app-android-ch/
 Website | https://www.bag.admin.ch/bag/en/home.html
+References | https://github.com/ct-report/DP-3T
 
 Since app is still in development / trial stage, the provided APK samples are the ProdRelease / ProdDebug / DevDebug build variants (using latest CH-specific sources).
 
-Adding latest ProdRelease Pilot 1.0 of May 22, that supports only Apple+Google Exposure Notifications API.
+Adding latest ProdRelease Pilot 1.0 of May 22, that supports only Apple+Google Exposure Notifications API. It's the same build-release, that has been officially signed & published on Google Play Store.
 
 - APKLAB Analysis
 
